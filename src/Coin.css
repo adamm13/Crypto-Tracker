@@ -11,7 +11,7 @@
   align-items: center;
   height: 80px;
   border-bottom: 1px solid #d7d7d7;
-  width: 900px;
+  width: 1200px;
 }
 
 .coin {
@@ -48,7 +48,7 @@
 }
 
 .coin-volume {
-  width: 200px;
+  width: 190px;
 }
 
 .coin-marketcap {
@@ -60,9 +60,9 @@
 }
 
 .red {
-  color: red 
+  color: rgb(245, 10, 10) 
 }
 
 .green {
-  color: green 
+  color: rgb(34, 230, 34) 
 }
