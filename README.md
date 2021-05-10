@@ -7,7 +7,7 @@ This React App was built using the [CoinGecko API](https://www.coingecko.com/en)
 ## Screenshots
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/adamm13/crypto-tracker/blob/master/pics/crypto-gif.gif"/>
 </p>
 
 ---
